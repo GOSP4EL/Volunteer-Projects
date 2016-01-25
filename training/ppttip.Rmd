@@ -1,0 +1,26 @@
+---
+title: "untitle"
+author: "Jeremiah"
+date: "January 25, 2016"
+output: ioslides_presentation
+---
+
+## PPT Matter
+
+- Enhance not outline
+- brief - 4 lines good, 8 lines most
+- simple graphic clear info
+- use black slide - pause and focus to speaker
+- high contrast scheme
+
+## PPT Person
+
+- rehearse more than once
+- able to present without ppt
+- speaker focus not ppt
+
+## PPT Tech
+- able and ready for no tech - spaek without ppt
+- leave ppt gimick to media expert
+- ascynchronic： speech <> go through slide
+

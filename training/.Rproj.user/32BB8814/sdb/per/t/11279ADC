@@ -1,0 +1,18 @@
+{
+    "contents" : "---\ntitle: \"untitle\"\nauthor: \"Jeremiah\"\ndate: \"January 25, 2016\"\noutput: ioslides_presentation\n---\n\n## PPT Matter\n\n- Enhance not outline\n- brief - 4 lines good, 8 lines most\n- simple graphic clear info\n- use black slide - pause and focus to speaker\n- high contrast scheme\n\n## PPT Person\n\n- rehearse more than once\n- able to present without ppt\n- speaker focus not ppt\n\n## PPT Tech\n- able and ready for no tech - spaek without ppt\n- leave ppt gimick to media expert\n- ascynchronic： speech <> go through slide\n\n",
+    "created" : 1453719816697.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "675265591",
+    "id" : "11279ADC",
+    "lastKnownWriteTime" : 1453720533,
+    "path" : "~/GitHub/training/ppttip.Rmd",
+    "project_path" : "ppttip.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}

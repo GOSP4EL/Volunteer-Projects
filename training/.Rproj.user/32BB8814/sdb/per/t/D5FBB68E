@@ -1,0 +1,18 @@
+{
+    "contents" : "---\ntitle: \"ppttips\"\nauthor: \"Jeremiah\"\ndate: \"January 25, 2016\"\noutput: ioslides_presentation\n---\n\n## R Markdown\n\nThis is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.\n\nWhen you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.\n\n## PPT Matter\n\n- Enhance not outline\n- brief - 4 lines good, 8 lines most\n- simple graphic clear info\n- use black slide - pause and focus to speaker\n- high contrast scheme\n\n## PPT Person\n\n- rehearse more than once\n- able to present without ppt\n- speaker focus not ppt\n\n## PPT Tech\n- able and ready for no tech - spaek without ppt\n- leave ppt gimick to media expert\n- ascynchronic： speech <> go through slide\n\n",
+    "created" : 1453720882448.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "480111629",
+    "id" : "D5FBB68E",
+    "lastKnownWriteTime" : 1453721042,
+    "path" : "~/GitHub/training/pptips.Rmd",
+    "project_path" : "pptips.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
