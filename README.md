@@ -1,10 +1,3 @@
-# Volunteer-Projects
-
-
-Here is a list of potential projects or ideas that volunteers can serve for Bible Translation, Scripture Engagement ...
-
-https://github.com/GOSP4EL/Volunteer-Projects/wiki
-
 # Welcome to GOSP4EL Global Open Source Projects for Evangelical Laities
 # 欢迎来到为福音信徒创建的GOSP4EL全球开源福音项目
 # the Volunteer-Projects wiki!
