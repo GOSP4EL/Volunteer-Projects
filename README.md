@@ -1,6 +1,5 @@
 # Volunteer-Projects
 
-Ad something here.
 
 Here is a list of potential projects or ideas that volunteers can serve for Bible Translation, Scripture Engagement ...
 
