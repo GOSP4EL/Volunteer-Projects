@@ -115,6 +115,10 @@ Send an question to BT communities?
 ❏ MTT or local colleague internship program, posted July 2015<br />
 ❏ 母语圣经翻译员或本地同事实习计划，2015年7月发布
 
+❏Sami Liedes is working on Machine Translation of the Bible, for the details visit his site:
+https://samiliedes.wordpress.com/2018/03/07/machine-translating-the-bible-into-new-languages/
+
+
 ## Exegetical Consultants
 ## 解经顾问
 
