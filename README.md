@@ -33,17 +33,27 @@ The course seem to a bit abstract to some people.(Oct 2017)
 ❏ 中国偏远地区背景下，使用“Linux" 2015年7月发布
 This is more like a personal project to gain experience.(Oct 2017)
 
-**❏ global/national Chinese Christian leadership development, posted July 2015<br />
-**❏ 全球全国华人教会领袖发展，2015年7月发布
+**❏ global Chinese Christian leadership development, posted July 2015<br />
+**❏ 全球华人教会领袖发展，2015年7月发布
 Started following up Cantonese LMC alumni meeting around 2018 January.
+LMC - relational development modules in Chinese in Australia 2019
 
 ❏ remote BT（Bible Translation）/SE education/awareness program 1 comment, posted July 2015<br />
 ❏ 透过科技遥距分享圣经翻译、联系异象，2015年7月发布
+Because of COVID 19.  translation projects and consultation are operating remotely through zoom or other similar technologies.
 
 --❏ remote technological literacy program, posted July 2015<br />
 -- ❏ 遥距的扫盲计划，2015年7月发布
+
 ABCD -- audio bible of Chinese dialects can help people link with Scripture App builder or simply the audio and text and multimedia Chinese version distribution to help with this. 
 
+See indigitous project: 
+
+https://indigitous.org/projects/abcd-chinese-dialects/
+
+https://github.com/JChungYS/ABCD/wiki
+
+https://www.abcdcenter.com/zh-hans/%E8%8F%AF%E4%BA%BA%E6%96%B9%E8%A8%80
 
 --❏ MK/TCK internship program, posted July 2015<br />
 --❏ 宣教士的子女实习计划，2015年7月发布
